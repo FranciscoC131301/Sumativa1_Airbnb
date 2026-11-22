@@ -1,0 +1,24 @@
+{
+    "registros_originales": 18904,
+    "precios_invalidos": 898,
+    "duplicados_eliminados": 1858,
+    "umbral_entrenamiento": 7786448.221000525,
+    "extremos_excluidos_entrenamiento": 13,
+    "registros_entrenamiento": 12905,
+    "registros_prueba": 3230,
+    "variables": [
+        "latitude",
+        "longitude",
+        "accommodates",
+        "bedrooms",
+        "beds",
+        "minimum_nights",
+        "number_of_reviews",
+        "review_scores_rating",
+        "reviews_per_month",
+        "neighbourhood_cleansed",
+        "property_type",
+        "room_type",
+        "host_is_superhost"
+    ]
+}
